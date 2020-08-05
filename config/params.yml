@@ -1,0 +1,26 @@
+URL: 'https://www.youse.com.br'
+email: 'fpiandoli@gmail.com'
+password: 'Rdmc2305'
+name: 'Felipe Polachini'
+phone: '1197888173'
+
+#vehicle info
+
+brandName: 'CHEVROLET'
+modelName: 'AGILE'
+yearModel: '2014'
+versionModel: 'AGILE LTZ 1.4 MPFI 8V FLEXPOWER 5P (Gasolina / Flex)'
+brandNew: 'não é 0km'
+
+#residence info
+
+CEP: '02460072'
+number: '205'
+
+#insured info
+
+CPF: '409.508.338-78'
+nationality: 'Brasil'
+marital: 'Solteiro(a)'
+insured: 'não tive'
+driver: 'sou'
